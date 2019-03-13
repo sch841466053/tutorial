@@ -76,7 +76,6 @@ pyspider==0.3.10
 pytesseract==0.2.6
 python-dateutil==2.7.5
 pytz==2018.9
-pywin32==224
 PyYAML==3.13
 queuelib==1.5.0
 redis==3.0.1
